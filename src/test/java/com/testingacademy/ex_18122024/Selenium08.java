@@ -21,13 +21,14 @@ public class Selenium08 {
     // Local storage, download
 
     EdgeOptions edgeOptions = new EdgeOptions();
-//    edgeOptions.addArguments("--Start-maximized");
-    edgeOptions.addArguments("--Window-size=800,600");
+      edgeOptions.addArguments("--Start-maximized");
+      edgeOptions.addArguments("--Window-size=800,600");
+//    edgeOptions.addArguments("--incognito");
+//    edgeOptions.addArguments("--headless");
 
-
-    EdgeDriver driver = new EdgeDriver();
+    EdgeDriver driver = new EdgeDriver(edgeOptions);
     driver.get("https://google.com");
-
+    System.out.println(driver.getTitle());
 
 
 }
