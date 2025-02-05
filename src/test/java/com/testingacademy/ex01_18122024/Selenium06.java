@@ -1,4 +1,4 @@
-package com.testingacademy.ex_18122024;
+package com.testingacademy.ex01_18122024;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;

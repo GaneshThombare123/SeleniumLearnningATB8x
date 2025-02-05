@@ -1,4 +1,4 @@
-package com.testingacademy.ex_18122024;
+package com.testingacademy.ex01_18122024;
 import org.junit.Test;
 import org.openqa.selenium.edge.EdgeDriver;
 

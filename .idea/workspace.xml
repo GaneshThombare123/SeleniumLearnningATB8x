@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70260cf2-0dfc-4084-be34-4612c02c4e71" name="Changes" comment="test 123">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex_18122024/Selenium09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex01_18122024/Addblock.CRX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex02_20122024/Addblock.CRX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex02_20122024/Selenium10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex02_20122024/Selenium12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex_18122024/Selenium01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex01_18122024/Selenium01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex_18122024/Selenium02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex01_18122024/Selenium02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex_18122024/Selenium03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex01_18122024/Selenium03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex_18122024/Selenium04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex01_18122024/Selenium04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex_18122024/Selenium05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex01_18122024/Selenium05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex_18122024/Selenium06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex01_18122024/Selenium06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex_18122024/Selenium07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex01_18122024/Selenium07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex_18122024/Selenium08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex01_18122024/Selenium08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex_18122024/Selenium09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex01_18122024/Selenium09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +35,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GaneshThombare123"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GaneshThombare123&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GaneshThombare123/SeleniumLearnningATB8x.git",
-    "accountId": "780f691f-cd90-4d25-9ed6-ff43334770a9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GaneshThombare123/SeleniumLearnningATB8x.git&quot;,
+    &quot;accountId&quot;: &quot;780f691f-cd90-4d25-9ed6-ff43334770a9&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -43,33 +56,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Selenium07.executor": "Run",
-    "JUnit.Selenium01.executor": "Run",
-    "JUnit.Selenium02.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.Selenium08.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/DELL/IdeaProjects/SeleniumLearnningATB8x/src/test/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Selenium07.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Selenium01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Selenium02.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.Selenium08.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium10.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/DELL/IdeaProjects/SeleniumLearnningATB8x/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/IdeaProjects/SeleniumLearnningATB8x/src/test/java/com/testingacademy/ex02_20122024&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\SeleniumLearnningATB8x\src\test\java\com\testingacademy\ex02_20122024" />
+      <recent name="C:\Users\DELL\IdeaProjects\SeleniumLearnningATB8x\src\test\java\com\testingacademy\ex_18122024" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.testingacademy.ex02_20122024" />
       <recent name="com.testingacademy.ex_18122024" />
       <recent name="com.testingacademy" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium08">
+  <component name="RunManager" selected="TestNG.Selenium10">
     <configuration name="Selenium07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex_18122024.Selenium07" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex01_18122024.Selenium07" />
       <module name="SeleniumLearnningATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.ex_18122024.*" />
+          <option name="PATTERN" value="com.testingacademy.ex01_18122024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +101,12 @@
       <module name="SeleniumLearnningATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.ex_18122024.*" />
+          <option name="PATTERN" value="com.testingacademy.ex01_18122024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.testingacademy.ex_18122024" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex_18122024.Selenium01" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex01_18122024.Selenium01" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,12 +116,12 @@
       <module name="SeleniumLearnningATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.ex_18122024.*" />
+          <option name="PATTERN" value="com.testingacademy.ex01_18122024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.testingacademy.ex_18122024" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex_18122024.Selenium02" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex01_18122024.Selenium02" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,12 +131,29 @@
       <module name="SeleniumLearnningATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.ex_18122024.*" />
+          <option name="PATTERN" value="com.testingacademy.ex01_18122024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.testingacademy.ex_18122024" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex_18122024.Selenium08" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex01_18122024.Selenium08" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium10" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearnningATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.ex02_20122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.ex02_20122024" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex02_20122024.Selenium10" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -126,6 +163,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium10" />
         <item itemvalue="TestNG.Selenium08" />
         <item itemvalue="Application.Selenium07" />
         <item itemvalue="JUnit.Selenium02" />
@@ -158,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738640795686</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test 123">
+      <option name="closed" value="true" />
+      <created>1738640862604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738640862604</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
