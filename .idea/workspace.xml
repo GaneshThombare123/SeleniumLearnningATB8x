@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70260cf2-0dfc-4084-be34-4612c02c4e71" name="Changes" comment="test 123">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex02_20122024/Selenium11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex02_20122024/Selenium13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex02_20122024/Selenium14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex02_20122024/Selenium15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex03_23122024/Selenium16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex03_23122024/Selenium17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex02_20122024/Selenium12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex02_20122024/Selenium12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +59,7 @@
     "TestNG.Selenium13.executor": "Run",
     "TestNG.Selenium13.testMethod1.executor": "Debug",
     "TestNG.Selenium15.executor": "Run",
+    "TestNG.Selenium17.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/DELL/IdeaProjects/SeleniumLearnningATB8x/src/test/java",
@@ -74,29 +72,13 @@
       <recent name="C:\Users\DELL\IdeaProjects\SeleniumLearnningATB8x\src\test\java\com\testingacademy\ex_18122024" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.testingacademy.ex03_23122024" />
       <recent name="com.testingacademy.ex02_20122024" />
       <recent name="com.testingacademy.ex_18122024" />
       <recent name="com.testingacademy" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium15">
-    <configuration name="Selenium08" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumLearnningATB8x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testingacademy.ex01_18122024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy.ex_18122024" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex01_18122024.Selenium08" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Selenium17">
     <configuration name="Selenium10" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumLearnningATB8x" />
       <extension name="coverage">
@@ -165,13 +147,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Selenium17" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearnningATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.ex03_23122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.ex03_23122024" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex03_23122024.Selenium17" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium17" />
         <item itemvalue="TestNG.Selenium15" />
         <item itemvalue="TestNG.Selenium13" />
         <item itemvalue="TestNG.Selenium12" />
         <item itemvalue="TestNG.Selenium10" />
-        <item itemvalue="TestNG.Selenium08" />
       </list>
     </recent_temporary>
   </component>
@@ -216,11 +215,30 @@
       <option name="project" value="LOCAL" />
       <updated>1738718388485</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test 123">
+      <option name="closed" value="true" />
+      <created>1738726054828</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738726054828</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test 123" />
     <option name="LAST_COMMIT_MESSAGE" value="test 123" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/testingacademy/ex02_20122024/Selenium15.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
