@@ -31,15 +31,6 @@ public class Selenium16 {
 
 
 
-
-
-
-
-
-
-
-
-
       driver.quit();
     }
 }
