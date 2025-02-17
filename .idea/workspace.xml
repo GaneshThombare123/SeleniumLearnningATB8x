@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70260cf2-0dfc-4084-be34-4612c02c4e71" name="Changes" comment="test 123r">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex03_30122024/Selenium20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex03_30122024/Selenium21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex03_30122024/Selenium22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/ex03_30122024/Selenium23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +72,7 @@
     "TestNG.Selenium21.executor": "Run",
     "TestNG.Selenium21.testMethod1.executor": "Debug",
     "TestNG.Selenium22.executor": "Run",
+    "TestNG.Selenium23.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/DELL/IdeaProjects/SeleniumLearnningATB8x/src/test/java",
@@ -93,24 +92,7 @@
       <recent name="com.testingacademy" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium22">
-    <configuration name="Selenium18 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB8x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testingacademy.ex03_23122024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy.ex03_23122024" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex03_23122024.Selenium18" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Selenium23">
     <configuration name="Selenium19" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB8x" />
       <extension name="coverage">
@@ -179,13 +161,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Selenium23" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.ex03_30122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.ex03_30122024" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.ex03_30122024.Selenium23" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium23" />
         <item itemvalue="TestNG.Selenium22" />
         <item itemvalue="TestNG.Selenium21" />
         <item itemvalue="TestNG.Selenium20" />
         <item itemvalue="TestNG.Selenium19" />
-        <item itemvalue="TestNG.Selenium18 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739687022399</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test 123r">
+      <option name="closed" value="true" />
+      <created>1739708846646</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739708846646</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
